@@ -1,0 +1,118 @@
+AADITYA RAJ
+DATA SCIENTIST | MACHINE LEARNING ENGINEER
+
+aadityaraj.sistec@gmail.com
++91-9113101805
+https://linkedin.com/in/aaditya-raj-a56426178
+HSR, Bangalore
+
+Summary
+======
+I am an experienced Data Scientist and Machine Learning Engineer with over 4 years in designing and implementing machine learning pipelines and statistical models. My expertise lies in extracting insights from both structured and unstructured data, employing Python and popular ML frameworks to build scalable models, and effectively communicating data-driven insights to cross-functional teams
+
+
+Experience
+======
+Analytics Consultant
+Quantzig
+08/2024 - 01/1970
+Analytics Consulting company focusing on improving business outcomes through data analysis and modeling
+ - Led machine learning and statistical modeling projects to optimize operations, resource planning, and passenger traffic forecasting for Delhi International Airport Limited (DIAL)
+ - Improved operational efficiency through peak-hour staffing models and demand prediction, resulting in significant process improvements and a 4x reduction in management overhead
+ - Conducted customer segmentation and price elasticity analysis to enhance retail revenue, enabling targeted marketing strategies that led to increased sales (Sales Per Pax) from the following month onward
+ - Partnered with DIAL & GMR leadership to identify high-impact use cases and drive strategic growth
+ - Delivered sales forecasting and store performance analysis across 100+ U.S. locations for Bob’s Furniture
+ - Conducted A/B testing, t-tests, and Bayesian analysis to evaluate key performance indicators (KPIs) for new product launches and store openings across multiple locations in the US and UK
+ - Performed market basket analysis to drive bundling, cross-selling, and promotional effectiveness
+ - Developed Alpha-Q, a modular, multi-model forecasting pipeline supporting the full workflow
+
+Python Developer
+Bhive Workspace Bangalore
+01/2023 - 08/2024
+Bangalore
+Co-working space provider focused on improving operational efficiency
+ - Developed RESTful APIs and automation tools for booking day passes and meeting rooms in co-working spaces using FastAPI
+ - Led the end-to-end development of Reconciliation, a web-based solution for automating transaction processing, invoice management, and expense tracking
+ - Contributed to backend architecture design, system integration, and cross-platform compatibility
+ - Followed Agile methodologies, implemented Git-based version control, practiced test-driven development (TDD)
+
+Machine Learning Engineer
+Praemineo Inc
+05/2021 - 11/2023
+Company focused on innovative solutions in machine learning applications
+ - Developed GST Master, an automated GST filing tool that streamlined workflows
+ - Built a GAN-based image restoration model to repair distorted table images from PDFs
+ - Led development of a content classification and sentiment analysis system using BERT
+ - Implemented text summarization models using transformer-based LLMs
+ - Created an OCR-based information extraction system with PyTesseract and OpenCV
+
+
+Education
+======
+Bachelor of Technology (Computer Science)
+Sistec
+08/2017 - 06/2021
+
+Higher Secondary
+Trident Public School
+04/2015 - 05/2017
+
+Secondary Education
+Emmanuel School
+
+
+Achievements
+======
+Technical Blogging
+Published over 5 technical blogs on Medium covering advanced topics in ML, NLP, and applied data science
+
+Sagar Ratna Award for Academic Excellence
+Sagar Ratna Award for Academic Excellence (2019) with a CGPA of 9.6 / 10.0, highlighting consistent academic performance
+
+Gold Batch Holder
+Achieved Gold Batch Holder status for excelling in Python & a 30-day coding challenge on Hacker Rank
+
+
+Skills
+======
+ - Agile
+ - AWS
+ - AWS Lambda
+ - C/C++
+ - Deep Learning
+ - EC2
+ - Flask
+ - GAMS
+ - GCP
+ - Git
+ - GitHub
+ - GST
+ - IBM
+ - Jupyter
+ - Jupyter Notebook
+ - Keras
+ - Linux
+ - Mac OS
+ - MongoDB
+ - MatplotLib
+ - Modular
+ - NLP
+ - NLTK
+ - Numpy
+ - OpenCV
+ - Pandas
+ - Parse
+ - Plotly
+ - PostgreSQL
+ - Python
+ - REST
+ - S3
+ - Scikit-Learn
+ - SDLC
+ - Seaborn
+ - Sentiment Analysis
+ - SpaCy
+ - SQL
+ - TensorFlow
+ - Time Series
+
